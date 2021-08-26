@@ -6,7 +6,7 @@
 
 ### 1《give you a gift》
 ### 01 冬日诗行
-![冬日诗行](/01drsh.jpg)
+![冬日诗行](/drsh01.jpg)
 
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
