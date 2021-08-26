@@ -1,4 +1,4 @@
-righ## Welcome to bythefourthbridge
+## Welcome to bythefourthbridge
 ## Welcome to 第四桥边
 
 这是一个诗歌分享的地方，会陆续发布音频，图片，和简单的介绍文字。
