@@ -1,11 +1,11 @@
-## Welcome to bythefourthbridge
+righ## Welcome to bythefourthbridge
 ## Welcome to 第四桥边
 
 这是一个诗歌分享的地方，会陆续发布音频，图片，和简单的介绍文字。
 
 ### 1《give you a gift》
 ### 01 冬日诗行
-<img src="/drsh01.jpg" width="120" height="100" align="left" />
+<img src="/drsh01.jpg" width="120" height="100" align="right" />
 
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/drsh01_audi.mp3">
@@ -14,11 +14,12 @@
 ---
 ### 02 致友人
 
-<img src="/zyr02.jpg" width="120" height="100" align="left" />
+<img src="/zyr02.jpg" width="120" height="100" align="right" />
 
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/zyr02_audi.mp3">
-                         </audio>---                    
+                         </audio>
+---                       
 
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
