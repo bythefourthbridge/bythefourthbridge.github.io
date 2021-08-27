@@ -6,6 +6,7 @@
 ### 1《give you a gift》
 ### 01 冬日诗行
 诗作：马克·斯特兰德
+
 曲：12月17日，和北京初雪的约定（罗威）
 <img src="/drsh01.jpg" width="120" height="100" align="right" />
 
@@ -16,6 +17,7 @@
 ---
 ### 02 致友人
 诗作：维斯瓦娃·辛波斯卡
+
 曲：7月1日，陌生人（罗威），Falling(Graham Coxon)
 <img src="/zyr02.jpg" width="120" height="100" align="right" />
 
