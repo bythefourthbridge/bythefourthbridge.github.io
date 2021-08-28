@@ -1,9 +1,12 @@
 <rss version="2.0">
-  <channel>
+<channel>
   <title>冬日诗行01</title>
   <description>title01</description>
+  <link>http://www.bythefourthbridge.github.io</link>
   <item>
     <title>诗作曲</title>
+    <description>title01</description>
+    <link>http://www.bythefourthbridge.github.io</link>
   </item>
 </channel>
 
