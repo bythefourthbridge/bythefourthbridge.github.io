@@ -44,7 +44,17 @@
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/bqey04_audi.mp3">
                          </audio>
+---                       
+### 05 昼与夜之树
+诗作：阿多尼斯
 
+曲：berceuse (Frédéric Chopin) ; Five String Serenade (Mazzy Star)
+图：Josie Wren作品
+<img src="/zyyzs05.jpg" width="120" height="100" align="right" />
+
+<audio id="audio" controls="" preload="auto">
+   <source id="mp3" src="/zyyzs05_audi.mp3">
+                         </audio>
 
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
