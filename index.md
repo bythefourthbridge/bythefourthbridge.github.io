@@ -28,12 +28,23 @@
 ### 03 风的君王
 诗作：阿多尼斯
 
-曲：destined-2019（桑丘索），in my room(Graham Coxon)
+曲：destined-2019（桑丘索），in my room(Graham Coxon)，图：梦露照片
 <img src="/fdjw03.jpg" width="120" height="100" align="right" />
 
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/fdjw03_audi.mp3">
                          </audio>
+---                       
+### 04 不期而遇
+诗作：维斯瓦娃·辛波斯卡
+
+曲：Nocturne No.20in C sharp minor.Op.post.（Sarah Chang/Sandra Rivers）；如果再次见到你（桑丘索）；图：Samantha Torrisi作品
+<img src="/bqey04.jpg" width="120" height="100" align="right" />
+
+<audio id="audio" controls="" preload="auto">
+   <source id="mp3" src="/bqey04_audi.mp3">
+                         </audio>
+
 
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
