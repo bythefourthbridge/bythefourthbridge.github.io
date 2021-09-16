@@ -2,6 +2,7 @@
 ## Welcome to 第四桥边
 
 这是一个诗歌分享的地方，会陆续发布音频，图片，和简单的介绍文字。
+特点：粗制滥造，一切随机。
 
 ### 1《give you a gift》
 ### 01 冬日诗行
@@ -65,7 +66,17 @@
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/sx06_audi.mp3">
                          </audio>
----                           
+---                      
+### 07 英文诗两首之一
+（瑕疵版）
+诗作：博尔赫斯
+曲：Trois Gymnopedies:1.Lent et douloureux (Anne Queffelec) ;水的记忆（曾轶可）
+<img src="/ywslszy07.jpg" width="120" height="100" align="right" />
+
+<audio id="audio" controls="" preload="auto">
+   <source id="mp3" src="/ywslszy07_audi.mp3">
+                         </audio>
+---  
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
