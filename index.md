@@ -68,8 +68,9 @@
                          </audio>
 ---                      
 ### 07 英文诗两首之一
+（另一版）
 诗作：博尔赫斯
-曲：Trois Gymnopedies:1.Lent et douloureux (Anne Queffelec) ;*水的记忆（曾轶可）未录版
+曲：Trois Gymnopedies:1.Lent et douloureux (Anne Queffelec) ;*水的记忆（曾轶可）此版未录
 <img src="/ywslszy07.jpg" width="120" height="100" align="right" />
 
 <audio id="audio" controls="" preload="auto">
