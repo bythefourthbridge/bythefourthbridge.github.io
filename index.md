@@ -14,6 +14,7 @@
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/drsh01_audi.mp3">
                          </audio>
+录音日期：2020.11.21.                        
 
 ---
 ### 02 致友人
