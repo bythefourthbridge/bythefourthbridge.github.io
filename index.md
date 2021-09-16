@@ -60,10 +60,10 @@
 诗作：博尔赫斯
 
 曲：passacaglia (Lola Astanova) 
-<img src="/xs06.jpg" width="120" height="100" align="right" />
+<img src="/sx06.jpg" width="120" height="100" align="right" />
 
 <audio id="audio" controls="" preload="auto">
-   <source id="mp3" src="/xs06_audi.mp3">
+   <source id="mp3" src="/sx06_audi.mp3">
                          </audio>
 ---                           
 ###
