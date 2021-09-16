@@ -55,7 +55,17 @@
 <audio id="audio" controls="" preload="auto">
    <source id="mp3" src="/zyyzs05_audi.mp3">
                          </audio>
+---                       
+### 06 瞬息
+诗作：博尔赫斯
 
+曲：passacaglia (Lola Astanova) 
+<img src="/xs06.jpg" width="120" height="100" align="right" />
+
+<audio id="audio" controls="" preload="auto">
+   <source id="mp3" src="/xs06_audi.mp3">
+                         </audio>
+---                           
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
