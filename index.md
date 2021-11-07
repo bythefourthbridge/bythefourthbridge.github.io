@@ -75,6 +75,7 @@
 ### 07 英文诗两首之一
 （另一版）
 诗作：博尔赫斯
+
 曲：Trois Gymnopedies:1.Lent et douloureux (Anne Queffelec) ;*水的记忆（曾轶可）此版未录
 <img src="/ywslszy07.jpg" width="120" height="100" align="right" />
 
@@ -86,6 +87,7 @@
 ### 08 玫瑰和弥尔顿
 
 诗作：博尔赫斯
+
 曲：9月22日，秋分（罗威）；Anthonio(Annie)
 <img src="/mghmed08.jpg" width="120" height="100" align="right" />
 
