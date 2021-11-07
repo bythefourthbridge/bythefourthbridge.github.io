@@ -83,6 +83,17 @@
                          </audio>
 录音日期：2021.07.01. 
 ---  
+### 08 玫瑰和弥尔顿
+
+诗作：博尔赫斯
+曲：9月22日，秋分（罗威）；Anthonio(Annie)
+<img src="/mghmed08.jpg" width="120" height="100" align="right" />
+
+<audio id="audio" controls="" preload="auto">
+   <source id="mp3" src="/mghmed08_audi.mp3">
+                         </audio>
+录音日期：2021.10.01. 
+---  
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
