@@ -89,6 +89,8 @@
 诗作：博尔赫斯
 
 曲：9月22日，秋分（罗威）；Anthonio(Annie)
+
+图：见水印
 <img src="/mghmed08.jpg" width="120" height="100" align="right" />
 
 <audio id="audio" controls="" preload="auto">
