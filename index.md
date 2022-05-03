@@ -106,6 +106,22 @@
 录音日期：2021.10.01. 
 
 ---  
+
+### 09 来自漫长的悲伤的舞会
+
+诗作：马克·斯特兰德
+
+曲：Preludes Op.28 No.4 in E Minor (Five easy pieces) 
+
+图：见水印
+<img src="/lzmcdbsdwh09.jpg" width="120" height="100" align="right" />
+
+<audio id="audio" controls="" preload="auto">
+   <source id="mp3" src="/lzmcdbsdwh09_audi.mp3">
+                         </audio>
+录音日期：2022.05.03. 
+
+---  
 ###
 You can use the [editor on GitHub](https://github.com/bythefourthbridge/bythefourthbridge.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
